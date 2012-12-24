@@ -1,0 +1,2 @@
+*Optimize Haskell version to use Data.Vector
+*Add python benchmark

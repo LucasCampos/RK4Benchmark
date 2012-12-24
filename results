@@ -1,0 +1,13 @@
+=====TIME IN SECS======
+Haskell: 18.565
+Fortran: 0.328
+C++: 0.054
+Octave: 291.713 
+Julia: 0.980
+
+=====TIME RELATIVE TO C++====
+Haskell: 343.80
+Fortran: 6.07
+C++: 1.00
+Octave: 5402.09
+Julia: 18.14
